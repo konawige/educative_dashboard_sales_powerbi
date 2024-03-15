@@ -16,7 +16,7 @@ Développement d’un tableau de bord exécutif pour l’analyse des ventes. Ce 
 ![screenshot](product_tab.png)
 
 ### Rapport clients ###
-![screenshot](exec_tab.png)
+![screenshot](rapport_clients.png)
 
 ### Rapport de ventes avec prédiction ###
 ![screenshot](sales_tab.png)
